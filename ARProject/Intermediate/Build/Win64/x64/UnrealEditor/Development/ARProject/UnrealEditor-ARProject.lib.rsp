@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ARProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal\FC_ARProject_5_3\ARProject\Intermediate\Build\Win64\x64\ARProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Unreal\FC_ARProject_5_3\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProject.init.gen.cpp.obj"
+"C:\Unreal\FC_ARProject_5_3\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProjectCharacter.gen.cpp.obj"
+"C:\Unreal\FC_ARProject_5_3\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProjectGameMode.gen.cpp.obj"
+"C:\Unreal\FC_ARProject_5_3\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProject.cpp.obj"
+"C:\Unreal\FC_ARProject_5_3\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProjectCharacter.cpp.obj"
+"C:\Unreal\FC_ARProject_5_3\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProjectGameMode.cpp.obj"
+"C:\Unreal\FC_ARProject_5_3\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\Default.rc2.res"
+/OUT:"C:\Unreal\FC_ARProject_5_3\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\UnrealEditor-ARProject.lib"

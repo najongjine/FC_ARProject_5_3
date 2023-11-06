@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal\\fc_arproject_5_3\\arproject\\intermediate\\build\\win64\\unrealeditor\\inc\\arproject\\uht\\arprojectgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal\\fc_arproject_5_3\\arproject\\intermediate\\build\\win64\\x64\\arprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal\\fc_arproject_5_3\\arproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\arproject\\definitions.arproject.h",
+            "c:\\unreal\\fc_arproject_5_3\\arproject\\source\\arproject\\arprojectgamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\unreal\\fc_arproject_5_3\\arproject\\intermediate\\build\\win64\\unrealeditor\\inc\\arproject\\uht\\arprojectgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
